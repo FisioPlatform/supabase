@@ -85,5 +85,5 @@ const CliLoginPage: NextPageWithLayout = () => {
     </APIAuthorizationLayout>
   )
 }
-
+const RECAPTCHA_SITE_KEY = '6Ldo6kErAAAAAH4CBb32kd4zWv8ihgO5-nt32B9_';
 export default withAuth(CliLoginPage)
