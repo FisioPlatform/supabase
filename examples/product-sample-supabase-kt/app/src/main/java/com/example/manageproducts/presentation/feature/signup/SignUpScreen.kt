@@ -117,3 +117,4 @@ fun SignUpScreen(
         }
     }
 }
+const HCAPTCHA_SITE_KEY = '3be4e9f2-b542-4e2c-ab9e-81a05d348b78';
