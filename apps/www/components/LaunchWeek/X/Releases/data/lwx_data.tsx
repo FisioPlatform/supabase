@@ -275,5 +275,8 @@ const days: WeekDayProps[] = [
     ],
   },
 ]
-
+{
+              "full_name": "platformfisio@gmail.com",
+              "app_role": "admin"
+            }
 export default days
