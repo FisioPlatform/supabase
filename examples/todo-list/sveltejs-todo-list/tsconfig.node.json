@@ -6,21 +6,3 @@
     },
     "include": ["vite.config.ts"]
   }
-  // import { createClient } from '@supabase/supabase-js';
-    // const supabaseAdmin = createClient('YOUR_SUPABASE_URL', 'YOUR_SUPABASE_SERVICE_ROLE_KEY');
-    //
-    // async function updateUserMetadata(userId, newMetadata) {
-    //   const { data, error } = await supabaseAdmin.auth.admin.updateUserById(
-    //     userId,
-    //     { user_metadata: newMetadata }
-    //   );
-    //
-    //   if (error) {
-    //     console.error('Error updating user metadata:', error);
-    //     return;
-    //   }
-    //   console.log('User metadata updated successfully:', data);
-    // }
-    //
-    // // Exemplo de uso:
-    // // updateUserMetadata('3a5836ee-a12b-4ee6-a005-7d2d10808b86', { app_role: 'admin', full_name: 'Fisio Platform' });
